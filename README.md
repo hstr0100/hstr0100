@@ -38,11 +38,6 @@ Currently, I am deepening my knowledge of additional technologies to explore a w
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hstr0100&theme=buefy)
 
-## Open Source Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hstr0100&theme=buefy&repo=GDownloader)](https://github.com/hstr0100/GDownloader)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hstr0100&theme=buefy&repo=LiveCaptionsLogger)](https://github.com/hstr0100/LiveCaptionsLogger)
-
 ## Previously Known For
 
 Backend and Multiplayer Technology at
