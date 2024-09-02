@@ -1,11 +1,5 @@
 # hstr0100 / vertx010 / Gabriel D
 
-⌨ About Me
-
-Known as vertx, vertx010 or "*Gabriel Dickinson*", I began my development career in 2015 by founding and creating scalable, multi-modular server software for an MMO (Massively Multiplayer Online) company. This project eventually grew into a community of over 12.3 million users, with peak concurrent accesses exceeding 15,000.
-
-Currently, I am deepening my knowledge of additional technologies to explore a wider market.
-
 ## Social Media and Contacts
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hstr0100)
