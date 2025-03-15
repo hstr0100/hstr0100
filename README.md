@@ -26,7 +26,6 @@
 ### Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ## Previously Known For
