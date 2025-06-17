@@ -27,6 +27,7 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## Previously Known For
 
