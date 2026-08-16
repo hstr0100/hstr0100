@@ -6,6 +6,9 @@
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hstr0100)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://new.reddit.com/user/Business-Error6835/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hstr0100@lyselune.com)
+[![itch.io](https://img.shields.io/badge/itch.io-333333?style=for-the-badge&logo=itchdotio&logoColor=red)](https://lyselune.itch.io)
+
+Not associated with any other social media accounts. Clashing usernames are not mine.
 
 ## Technologies Most Experienced With
 
